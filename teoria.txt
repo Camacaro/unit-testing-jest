@@ -1,0 +1,2 @@
+// Me genera un reporte con todas mis prubas 
+$ jest --coverage
